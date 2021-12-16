@@ -35,7 +35,7 @@
  <div class="container">
          <div class="row">
           <div class="col-md-6">
-            <a img style=" float:left;margin-top:5px;" href="index.html"><img src="images/logo_black.png" width="95" height="40"></a>
+            <a img style=" float:left;margin-top:5px;" href="mob-pg.html"><img src="images/logo_black.png" width="95" height="40"></a>
             <a img style=" float:right; margin-top: 10px;margin-right: 10px";   href="mob-index.html"><img src="images/menu-black.png "  width="25pt" height="18pt" ></a></div>
           </div>
       <br>

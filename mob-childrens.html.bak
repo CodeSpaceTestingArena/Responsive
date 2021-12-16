@@ -33,17 +33,129 @@
       <div class="container">
           <div class="row">
     <div class="col-md-6">
-      <a img style=" float:left; margin-top: 10px;margin-left: -10px" href="index.html"><img src="images/logo_black.png" width="95" height="40" margin-left="-40px" background-></a>
+      <a img style=" float:left; margin-top: 10px;margin-left: -10px" href="mob-pg.html"><img src="images/logo_black.png" width="95" height="40" margin-left="-40px" background-></a>
       <a img style=" float:right; margin-top: 10px;";   href="mob-index.html"><img src="images/menu-black.png " img style=" margin-left: 160px;" width="25pt" height="18pt" background-></a></div>
-        </div>
-</div></div>
+</div>
 </div>  
- <!-- END nav -->
+
+<div class="d-none d-lg-block">
+<!--hide on screens smaller than lg</div>-->
+    <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
+	    <div class="container" style="margin-left: 2em;">
+			<a class="navbar-brand" href="index.html"><img src="images/logo_black.png" width="110" height="55" background-></a>
+	      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
+	        <span class="oi oi-menu"></span> Menu
+        </button>
+        
+	      <div class="collapse navbar-collapse" id="ftco-nav" style="margin-right: -5.5em;">
+	        <ul class="navbar-nav ml-auto">
+            
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="font-size: 1.0rem; color: black;">Learn the firm</a>
+              
+              <div class="dropdown-menu" aria-labelledby="dropdown04" style="width: 70rem; right: -317px;">
+
+              	<div class="row d-flex" style="text-align: left; padding-top: 30px; padding-bottom: 0%;">
+
+                  <div class="col-md-3 d-flex img-hover-zoom--colorize" style="padding-left: 43px;">
+                    <div class="align-self-stretch"><a href="group.html">
+                      <img src='images/learn-the-firm/product-1.jpg' height='180px' width='250px'>
+                        <p style="color: black ;font-size: 20px; font-family: transat-bold;">The Group</p>
+                        <p style="color: black ;font-size: 15px; font-family: proxima-nova-regular;">See more</p></a>
+                      </div>
+                    </div>
+  
+                    <div class="col-md-3 d-flex img-hover-zoom--colorize" style="padding-left: 23px; max-width: 260px;">
+                      <div class="align-self-stretch"><a href="commitments.html">
+                        <img src='images/learn-the-firm/product-2.jpg' height='180px' width='250px'>
+                        <p style="color: black ;font-size: 20px; font-family: transat-bold;">Commitments</p>
+                        <p style="color: black ;font-size: 15px; font-family: proxima-nova-regular;">See more</p></a>
+                        </div>
+                      </div>
+  
+                      <div class="col-md-3 d-flex img-hover-zoom--colorize" style="padding-left: 33px; max-width: 260px;">
+                        <div class="align-self-stretch"><a href="#">
+                          <img src='images/learn-the-firm/product-3.jpg' height='180px' width='250px'>
+                          <p style="color: black ;font-size: 20px; font-family: transat-bold;">Operations</p>
+                          <p style="color: black ;font-size: 15px; font-family: proxima-nova-regular;">See more</p></a>
+                          </div>
+                        </div>
+  
+                        <div class="col-md-3 d-flex img-hover-zoom--colorize" style="padding-left: 43px; max-width: 260px;">
+                          <div class="align-self-stretch"><a href="#">
+                            <img src='images/learn-the-firm/product-4.jpg' height='180px' width='250px'>
+                            <p style="color: black ;font-size: 20px; font-family: transat-bold;;">Extra's</p>
+                            <p style="color: black ;font-size: 15px; font-family: proxima-nova-regular;">See more</p></a>
+                            </div>
+                          </div>
+  
+                </div>
+              
+              </div>
+
+            </li>
+            
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="font-size: 1.0rem; color: black;">Products</a>
+              
+              <div class="dropdown-menu" aria-labelledby="dropdown04" style="width: 70rem;">
+
+              	<div class="row d-flex" style="text-align: left; padding-top: 30px; padding-bottom: 0%;">
+
+                  <div class="col-md-3 d-flex img-hover-zoom--colorize" style="padding-left: 43px;">
+                    <div class="align-self-stretch"><a href="men.html">
+                      <img src='images/product-menu/product-1.jpg' height='180px' width='250px'>
+                        <p style="color: black ;font-size: 20px; font-family: transat-bold;">Men</p>
+                        <p style="color: black ;font-size: 15px; font-family: proxima-nova-regular;">See more</p></a>
+                      </div>
+                    </div>
+  
+                    <div class="col-md-3 d-flex img-hover-zoom--colorize" style="padding-left: 23px; max-width: 260px;">
+                      <div class="align-self-stretch"><a href="#">
+                        <img src='images/product-menu/product-2.jpg' height='180px' width='250px'>
+                        <p style="color: black ;font-size: 20px; font-family: transat-bold;">Women</p>
+                        <p style="color: black ;font-size: 15px; font-family: proxima-nova-regular;">See more</p></a>
+                        </div>
+                      </div>
+  
+                      <div class="col-md-3 d-flex img-hover-zoom--colorize" style="padding-left: 33px; max-width: 260px;">
+                        <div class="align-self-stretch"><a href="childrens.html">
+                          <img src='images/product-menu/product-3.jpg' height='180px' width='250px'>
+                          <p style="color: black ;font-size: 20px; font-family: transat-bold;">Children's</p>
+                          <p style="color: black ;font-size: 15px; font-family: proxima-nova-regular;">See more</p></a>
+                          </div>
+                        </div>
+  
+                        <div class="col-md-3 d-flex img-hover-zoom--colorize" style="padding-left: 43px; max-width: 260px;">
+                          <div class="align-self-stretch"><a href="home-decor.html">
+                            <img src='images/product-menu/product-4.jpg' height='180px' width='250px'>
+                            <p style="color: black ;font-size: 20px; font-family: transat-bold;;">Home Decor</p>
+                            <p style="color: black ;font-size: 15px; font-family: proxima-nova-regular;">See more</p></a>
+                            </div>
+                          </div>
+  
+                </div>
+              
+              </div>
+
+            </li>
+            
+            <li class="nav-item"><a href="about-us.html" class="nav-link" style="font-size: 1.0rem; color: black;">About us</a></li>
+	          <li class="nav-item"><a href="enquiry.html" class="nav-link" style="font-size: 1.0rem; color: black;">Enquiry</a></li>
+
+	        </ul>
+	      </div>
+	    </div>
+	  </nav>
+  </div>
+    <!-- END nav -->
+
+	
 
     <section class="ftco-section bg-light">
       <div class="container-fluid">
         <div style="text-align: left;">
-         <p class="big" style="font-size: x-large ;color:black;margin-top: -50px; font-family: transat-bold;"><b>WOMEN</b></p> 
+         <p class="big" style="font-size: x-large ;color:black;margin-top: -50px; font-family: transat-bold;"><b>CHILDRENS</b></p> 
          <div style="text-align: right;"> 
                <h6 data-toggle="collapse" data-target="#demo1" style="color:black; text-align: right; margin-top: -40px; line-height: 10px;font-family: proxima-nova-bold;">+FILTER</h6>
                   <div id="demo1"  style="color:black;" class="collapse">
@@ -60,17 +172,17 @@
 
           <div class="col-sm col-md-2"  style="max-width: 50%; max-height: 50%;">
             <div class="product">
-              <a href="mob-prod.html" class="i"><img src="images/women/prod-1.jpg" alt="Colorlib Template" style="max-width: 100%; max-height: 100%;">
+              <a href="product-single.html" class="i"><img src="images/childrens/prod-1.jpg" alt="Colorlib Template" style="max-width: 100%; max-height: 100%;">
               </a>
               <div class="text py-3 px-3">
-                <h3 style="font-family: proxima-nova-bold; text-align: center;"><a href="mob-prod.html">Round Neck Tee</a></h3>
+                <h3 style="font-family: proxima-nova-bold; text-align: center;"><a href="product-single.html">Round Neck Tee</a></h3>
               </div>
             </div>
           </div>
 
           <div class="col-sm col-md-2" style="max-width: 50%; max-height: 50%;">
             <div class="product">
-              <a href="#" class="img-prod"><img src="images/women/prod-2.jpg" alt="Colorlib Template"  style="max-width: 100%; max-height: 100%;">
+              <a href="#" class="img-prod"><img src="images/childrens/prod-2.jpg" alt="Colorlib Template"  style="max-width: 100%; max-height: 100%;">
               </a>
               <div class="text py-3 px-3">
                 <h3 style="font-family: proxima-nova-bold; text-align: center;"><a href="#">V-Neck Tee</a></h3>
@@ -80,53 +192,53 @@
 
           <div class="col-sm col-md-2" style="max-width: 50%; max-height: 50%;">
             <div class="product">
-              <a href="#" class="img-prod"><img class="img-fluid" src="images/women/prod-3.jpg" alt="Colorlib Template" style="max-width: 100%; max-height: 100%;" ></a>
+              <a href="#" class="img-prod"><img class="img-fluid" src="images/childrens/prod-3.jpg" alt="Colorlib Template" style="max-width: 100%; max-height: 100%;" ></a>
               <div class="text py-3 px-3">
                 <h3 style="font-family: proxima-nova-bold; text-align: center;"><a href="#">Henlee Shirt</a></h3>
               </div>
             </div>
           </div>
 
-          <div class="col-sm col-md-2" style="max-width: 50%; max-height: 50%;">
+          <div class="col-sm col-md-4" style="max-width: 50%; max-height: 50%;">
             <div class="product">
-              <a href="#" class="img-prod"><img class="img-fluid" src="images/women/prod-4.jpg" alt="Colorlib Template"  style="max-width: 100%; max-height: 100%;"></a>
+              <a href="#" class="img-prod"><img class="img-fluid" src="images/childrens/prod-4.jpg" alt="Colorlib Template"  style="max-width: 100%; max-height: 100%;"></a>
               <div class="text py-3 px-3">
                 <h3 style="font-family: proxima-nova-bold; text-align: center;"><a href="#">Vest</a></h3>
               </div>
             </div>
           </div>
 
-          <div class="col-sm col-md-2" style="max-width: 50%; max-height: 50%;">
+          <div class="col-sm col-md-4" style="max-width: 50%; max-height: 50%;">
             <div class="product">
-              <a href="#" class="img-prod"><img class="img-fluid" src="images/women/prod-5.jpg" alt="Colorlib Template"  style="max-width: 100%; max-height: 100%;"></a>
+              <a href="#" class="img-prod"><img class="img-fluid" src="images/childrens/prod-5.jpg" alt="Colorlib Template"  style="max-width: 100%; max-height: 100%;"></a>
               <div class="text py-3 px-3">
                 <h3 style="font-family: proxima-nova-bold; text-align: center;"><a href="#">Sweatshirt</a></h3>
               </div>
             </div>
           </div>
 
-          <div class="col-sm col-md-2" style="max-width: 50%; max-height: 50%;">
+          <div class="col-sm col-md-4" style="max-width: 50%; max-height: 50%;">
             <div class="product">
-              <a href="#" class="img-prod"><img class="img-fluid" src="images/women/prod-6.jpg" alt="Colorlib Template"  style="max-width: 100%; max-height: 100%;"></a>
+              <a href="#" class="img-prod"><img class="img-fluid" src="images/childrens/prod-6.jpg" alt="Colorlib Template"  style="max-width: 100%; max-height: 100%;"></a>
               <div class="text py-3 px-3">
                 <h3 style="font-family: proxima-nova-bold; text-align: center;"><a href="#">Joggers</a></h3>
               </div>
             </div>
           </div>
 
-          <div class="col-sm col-md-2" style="max-width: 50%; max-height: 50%;">
+          <div class="col-sm col-md-4" style="max-width: 50%; max-height: 50%;">
             <div class="product">
               <h1 id="scroll1"></h1>
-              <a href="#" class="img-prod"><img class="img-fluid" src="images/women/prod-7.jpg" alt="Colorlib Template"  style="max-width: 100%; max-height: 100%;"></a>
+              <a href="#" class="img-prod"><img class="img-fluid" src="images/childrens/prod-7.jpg" alt="Colorlib Template"  style="max-width: 100%; max-height: 100%;"></a>
               <div class="text py-3 px-3">
                 <h3 style="font-family: proxima-nova-bold; text-align: center;"><a href="#">Boxers</a></h3>
               </div>
             </div>
           </div>
 
-          <div class="col-sm col-md-2" style="max-width: 50%; max-height: 50%;">
+          <div class="col-sm col-md-4" style="max-width: 50%; max-height: 50%;">
             <div class="product">
-              <a href="#" class="img-prod"><img class="img-fluid" src="images/women/prod-8.jpg" alt="Colorlib Template"  style="max-width: 100%; max-height: 100%;">
+              <a href="#" class="img-prod"><img class="img-fluid" src="images/childrens/prod-8.jpg" alt="Colorlib Template"  style="max-width: 100%; max-height: 100%;">
               </a>
               <div class="text py-3 px-3">
                 <h3 style="font-family: proxima-nova-bold; text-align: center;"><a href="#">Denim Jacket</a></h3>
@@ -138,9 +250,7 @@
       </div>
     </section>
 
- 
-
-<div class="d-lg-none">
+ <div class="d-lg-none">
          <div>
     <footer class="ftco-footer bg-black" style="padding: 3%;">
       <div class="container">

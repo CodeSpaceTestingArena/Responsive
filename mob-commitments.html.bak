@@ -30,7 +30,7 @@
       <div class="container">
         <div class="row">
           <div class="col-md-6">
-            <a img style=" float:left"; href="index.html"><img src="images/logo_black.png" width="95pt" height="40pt" style="margin-top:10px;margin-left: -10px"></a>
+            <a img style=" float:left"; href="mob-pg.html"><img src="images/logo_black.png" width="95pt" height="40pt" style="margin-top:10px;margin-left: -10px"></a>
             <a  style=" float:right";   href="mob-index.html"><img src="images/menu-black.png" img style=" margin-left: 160px; margin-top:10px ; margin-right: 5px" width="25pt" height="18pt" background-></a></div>
           </div>
         </div>

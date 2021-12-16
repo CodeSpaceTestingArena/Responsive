@@ -5,6 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="ScreenOrientation" content="autoRotate:disabled">
+    <meta http-equiv="ScreenOrientation" content="autoRotate:disabled">
     <link href="https://fonts.googleapis.com/css?family=Lato:100,300,400,700,900" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:300,400,700" rel="stylesheet">
 
@@ -30,23 +31,20 @@
   <body>
 <div class="d-lg-none">
  <!-- hide on lg and wider screens</div>-->
- <div class="container">
-         <div class="row">
-          <div class="col-md-6">
-            <a img style=" float:left; margin-top: 10px;margin-left: -10px" href="index.html"><img src="images/logo_black.png" width="95" height="40" margin-left="-40px" background-></a>
-            <a img style=" float:right; margin-top: 10px;";   href="mob-index.html"><img src="images/menu-black.png " img style=" margin-left: 160px;" width="25pt" height="18pt" background-></a></div>
-          </div>
+      <div class="container">
+          <div class="row">
+    <div class="col-md-6">
+      <a img style=" float:left; margin-top: 10px;margin-left: -10px" href="mob-pg.html"><img src="images/logo_black.png" width="95" height="40"></a>
+      <a img style=" float:right; margin-top: 10px;";   href="mob-index.html"><img src="images/menu-black.png " img style=" margin-left: 160px;" width="25pt" height="18pt"></a></div>
         </div>
-      </div>  
-
-
-
-	
+</div></div>
+</div>  
+ <!-- END nav -->
 
     <section class="ftco-section bg-light">
       <div class="container-fluid">
         <div style="text-align: left;">
-         <p class="big" style="font-size: x-large ;color:black;margin-top: -50px; font-family: transat-bold;"><b>HOME DECOR</b></p> 
+         <p class="big" style="font-size: x-large ;color:black;margin-top: -50px; font-family: transat-bold;"><b>MEN</b></p> 
          <div style="text-align: right;"> 
                <h6 data-toggle="collapse" data-target="#demo1" style="color:black; text-align: right; margin-top: -40px; line-height: 10px;font-family: proxima-nova-bold;">+FILTER</h6>
                   <div id="demo1"  style="color:black;" class="collapse">
@@ -59,64 +57,88 @@
 
 <br>
 <br>
-
         <div class="row">
 
           <div class="col-sm col-md-2"  style="max-width: 50%; max-height: 50%;">
             <div class="product">
-              <a href="product-single.html" class="i"><img src="images/home-decor/prod-1.jpg" alt="Colorlib Template" style="max-width: 100%; max-height: 100%;">
+              <a href="mob-product-single.html" class="i"><img src="images/men/prod-1.jpg" alt="Colorlib Template" style="max-width: 100%; max-height: 100%;">
               </a>
               <div class="text py-3 px-3">
-                <h3 style="font-family: proxima-nova-bold; text-align: center;"><a href="product-single.html">Pillows and Covers</a></h3>
+                <h3 style="font-family: proxima-nova-bold; text-align: center;"><a href="mob-prod.html">Round Neck Tee</a></h3>
               </div>
             </div>
           </div>
 
           <div class="col-sm col-md-2" style="max-width: 50%; max-height: 50%;">
             <div class="product">
-              <a href="#" class="img-prod"><img src="images/home-decor/prod-2.jpg" alt="Colorlib Template"  style="max-width: 100%; max-height: 100%;">
+              <a href="#" class="img-prod"><img src="images/men/prod-2.jpg" alt="Colorlib Template"  style="max-width: 100%; max-height: 100%;">
               </a>
               <div class="text py-3 px-3">
-                <h3 style="font-family: proxima-nova-bold; text-align: center;"><a href="#">Hand Towel</a></h3>
+                <h3 style="font-family: proxima-nova-bold; text-align: center;"><a href="#">V-Neck Tee</a></h3>
               </div>
             </div>
           </div>
 
           <div class="col-sm col-md-2" style="max-width: 50%; max-height: 50%;">
             <div class="product">
-              <a href="#" class="img-prod"><img class="img-fluid" src="images/home-decor/prod-3.jpg" alt="Colorlib Template" style="max-width: 100%; max-height: 100%;" ></a>
+              <a href="#" class="img-prod"><img class="img-fluid" src="images/men/prod-3.jpg" alt="Colorlib Template" style="max-width: 100%; max-height: 100%;" ></a>
               <div class="text py-3 px-3">
-                <h3 style="font-family: proxima-nova-bold; text-align: center;"><a href="#">Bath Towel</a></h3>
+                <h3 style="font-family: proxima-nova-bold; text-align: center;"><a href="#">Henlee Shirt</a></h3>
               </div>
             </div>
           </div>
 
-          <div class="col-sm col-md-4" style="max-width: 50%; max-height: 50%;">
+          <div class="col-sm col-md-2" style="max-width: 50%; max-height: 50%;">
+            <div class="product">
+              <a href="#" class="img-prod"><img class="img-fluid" src="images/men/prod-4.jpg" alt="Colorlib Template"  style="max-width: 100%; max-height: 100%;"></a>
+              <div class="text py-3 px-3">
+                <h3 style="font-family: proxima-nova-bold; text-align: center;"><a href="#">Vest</a></h3>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-sm col-md-2" style="max-width: 50%; max-height: 50%;">
+            <div class="product">
+              <a href="#" class="img-prod"><img class="img-fluid" src="images/men/prod-5.jpg" alt="Colorlib Template"  style="max-width: 100%; max-height: 100%;"></a>
+              <div class="text py-3 px-3">
+                <h3 style="font-family: proxima-nova-bold; text-align: center;"><a href="#">Sweatshirt</a></h3>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-sm col-md-2" style="max-width: 50%; max-height: 50%;">
+            <div class="product">
+              <a href="#" class="img-prod"><img class="img-fluid" src="images/men/prod-6.jpg" alt="Colorlib Template"  style="max-width: 100%; max-height: 100%;"></a>
+              <div class="text py-3 px-3">
+                <h3 style="font-family: proxima-nova-bold; text-align: center;"><a href="#">Joggers</a></h3>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-sm col-md-2" style="max-width: 50%; max-height: 50%;">
             <div class="product">
               <h1 id="scroll1"></h1>
-              <a href="#" class="img-prod"><img class="img-fluid" src="images/home-decor/prod-4.jpg" alt="Colorlib Template"  style="max-width: 100%; max-height: 100%;"></a>
+              <a href="#" class="img-prod"><img class="img-fluid" src="images/men/prod-7.jpg" alt="Colorlib Template"  style="max-width: 100%; max-height: 100%;"></a>
               <div class="text py-3 px-3">
-                <h3 style="font-family: proxima-nova-bold; text-align: center;"><a href="#">Tote Bag</a></h3>
+                <h3 style="font-family: proxima-nova-bold; text-align: center;"><a href="#">Boxers</a></h3>
               </div>
             </div>
           </div>
 
-          <div class="col-sm col-md-4" style="max-width: 50%; max-height: 50%;">
+          <div class="col-sm col-md-2" style="max-width: 50%; max-height: 50%;">
             <div class="product">
-              <a href="#" class="img-prod"><img class="img-fluid" src="images/home-decor/prod-5.jpg" alt="Colorlib Template"  style="max-width: 100%; max-height: 100%;"></a>
+              <a href="#" class="img-prod"><img class="img-fluid" src="images/men/prod-8.jpg" alt="Colorlib Template"  style="max-width: 100%; max-height: 100%;">
+              </a>
               <div class="text py-3 px-3">
-                <h3 style="font-family: proxima-nova-bold; text-align: center;"><a href="#">Throws</a></h3>
+                <h3 style="font-family: proxima-nova-bold; text-align: center;"><a href="#">Denim Jacket</a></h3>
               </div>
             </div>
           </div>
-
-         
 
         </div>
       </div>
     </section>
 
- 
 <div class="d-lg-none">
          <div>
     <footer class="ftco-footer bg-black" style="padding: 3%;">
@@ -228,5 +250,45 @@
     <script src="js/google-map.js"></script>
     <script src="js/main.js"></script>
     
+
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+<script type="text/javascript">
+// Detect whether device supports orientationchange event, otherwise fall back to
+// the resize event.
+var supportsOrientationChange = "onorientationchange" in window,
+    orientationEvent = supportsOrientationChange ? "orientationchange" : "resize";
+
+window.addEventListener(orientationEvent, function() {
+    if(window.orientation==0)
+    {
+      document.getElementById('portrait').style.display = '';
+      document.getElementById('landscape').style.display = 'none';
+    }
+    else if(window.orientation==90)
+    {
+      document.getElementById('portrait').style.display = 'none';
+      document.getElementById('landscape').style.display = '';
+    }
+}, false);
+</script>
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, height=device-height, user-scalable=no" />
+</head>
+<body>
+<div id="portrait" style="width:100%;height:100%;font-size:20px;">Portrait</div>
+<div id="landscape" style="width:100%;height:100%;font-size:20px;">Landscape</div>
+
+<script type="text/javascript">
+if(window.orientation==0)
+{
+  document.getElementById('portrait').style.display = '';
+  document.getElementById('landscape').style.display = 'none';
+}
+else if(window.orientation==90)
+{
+  document.getElementById('portrait').style.display = 'none';
+}
+</script>
     </body>
     </html>

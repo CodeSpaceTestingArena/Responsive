@@ -7,73 +7,95 @@
     <meta http-equiv="ScreenOrientation" content="autoRotate:disabled">
     <link href="https://fonts.googleapis.com/css?family=Lato:100,300,400,700,900" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:300,400,700" rel="stylesheet">
-    <link rel="stylesheet" href="css/open-iconic-bootstrap.min.css">
-    <link rel="stylesheet" href="css/animate.css">
 
-    <link rel="stylesheet" href="css/owl.carousel.min.css">
-    <link rel="stylesheet" href="css/owl.theme.default.min.css">
-    <link rel="stylesheet" href="css/magnific-popup.css">
+    <link rel="stylesheet" href="css-mob/open-iconic-bootstrap.min.css">
+    <link rel="stylesheet" href="css-mob/animate.css">
 
-    <link rel="stylesheet" href="css/aos.css">
+    <link rel="stylesheet" href="css-mob/owl.carousel.min.css">
+    <link rel="stylesheet" href="css-mob/owl.theme.default.min.css">
+    <link rel="stylesheet" href="css-mob/magnific-popup.css">
 
-    <link rel="stylesheet" href="css/ionicons.min.css">
+    <link rel="stylesheet" href="css-mob/aos.css">
 
-    <link rel="stylesheet" href="css/bootstrap-datepicker.css">
-    <link rel="stylesheet" href="css/jquery.timepicker.css">
+    <link rel="stylesheet" href="css-mob/ionicons.min.css">
+
+    <link rel="stylesheet" href="css-mob/bootstrap-datepicker.css">
+    <link rel="stylesheet" href="css-mob/jquery.timepicker.css">
 
 
-    <link rel="stylesheet" href="css/flaticon.css">
-    <link rel="stylesheet" href="css/icomoon.css">
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css-mob/flaticon.css">
+    <link rel="stylesheet" href="css-mob/icomoon.css">
+    <link rel="stylesheet" href="css-mob/style.css">
   </head>
-    <body>
+  <body>
       <div class="container">
         <div class="row">
           <div class="col-md-6">
-            <a img style=" float:left"; href="index.html"><img src="images/logo_black.png" width="95pt" height="40pt" style="margin-top:10px;margin-left: -10px"></a>
-            <a  style=" float:right";   href="mob-index.html"><img src="images/menu-black.png" img style=" margin-left: 160px; margin-top:10px ; margin-right: 5px" width="25pt" height="18pt" background-></a></div>
+            <a img style=" float:left"; href="mob-pg.html"><img src="images/logo_black.png" width="95pt" height="40pt" style="margin-top:10px;margin-left: -10px"></a>
+            <a img style=" float:right";   href="mob-index.html"><img src="images/menu-black.png" img style=" margin-left: 160px; margin-top:10px ; margin-right: 5px" width="25pt" height="18pt" background-></a></div>
           </div>
         </div>
       </div>
     </div>  
 
 
-
 <span class="break"></span><span class="break"></span>
-  <section class="bg-regular">
+  
+<section class="bg-light">
     <div class=" d-flex align-items-center">
       <div class="container">
 
         <div style="text-align: left;">
-         <div class="d-lg-none">
-            <p class="big" style="font-size: xx-large ;color:black; margin-top: -2em ;line-height: 30px; font-family: transat-bold;">COMMITMENTS</p>
-          </div>
-          <div class="ftco-section ftco-no-pb ftco-no-pt bg-regular">
+          <p class="big" style="font-size: xx-large  ;color:black; margin-top:-2em ; font-family: transat-bold;;line-height: 30px">THE GROUP</p>
+          <div class="ftco-section ftco-no-pb ftco-no-pt bg-light">
               <div class="container">
                 <div class="row">
-                 <img  src="images/commitment-bg.jpg" width="99%" >
+                 <img src="images/group-bg.jpg" width=100%>
                 </div>
               </div>
           </div>
         </div>
 
-        <div class="row d-flex justify-content-center py-5" style="margin-top: -70px;">
-          <div class="col-md-11 text-justify heading-section">
-            <br><br>
- <p style="font-size: 13px; font-family: proxima-nova-light; color: black;letter-spacing: 0px;
-color: #000000;opacity: 1; line-height: 14pt;"><b>
-              At Olive our commitment takes precedence over everything else. We believe our success Is the result of our commitment to product quality, timely delivery, the environment and our human resources. All our products comply to REACH standards. <br><br>
-              We pledge to care for the society & the environment. The WRAP certification testifies us as a
-              responsible apparel producer. Endorsing our commitment to the environment Is the ISO 14001,
-              Oeko Tex Standard -100 and Eco-tex. Our Social Accountability Management System complies with the SA 8000 standards. The reduced water consumption In our dyeing unit, following energy saving means and reduced carbon emission reinforce our responsibility. We are certified to produce all blends of Organic Cotton products, fair Trade, bCI known as sustainable textile products, which further testify our commitment to the world we live in.</b>
+        <div class="row d-flex justify-content-justifyr py-5">
+          <div class="col-md-12 text-center heading-section ftco-animate">
+          
+            <div class="row d-flex" style="text-align: justify;">
 
-            </p>
+              <div class="col-md-7 d-flex" style="padding-left: 7%;">
+                <div class="blog-entry align-self-stretch">
+                  <h5 style="font-family: transat-bold; line-height: 20pt;margin-top: -30px"><b>CONTEMPORARY DESIGNS OF WARMTH, FUNCTIONALITY AND FRIENDLY EXPRIESSIONS</b></h5>
+                  <br>
+                  <p style="font-size: 13px; font-family: proxima-nova-light; color: black;letter-spacing: 0px;
+                  color: #000000;opacity: 1; line-height: 14pt;">
+                  <b>We are experienced with handling client all over the country. We have experience in the following dectors: Men's wear, Women's wear, Kid's wear. Sportswear,Technical wear, Lounge wear, High-Street wear, Street wear, Casual-wear, High-end fashion wear and all kind of Specialist Products.<br><br>
+                  To become the most desirable manufacturer by consumers who increasingly appreciate the provenance of their garments and see the 'Olive Clothiers' label as a status symbol. Olive Clothiers aims to change the perception of apparel manufacturer as a viable and fulfilling career choice for young people. We want to work with the industry to invest in skills to ensure the Indian manufacturing has an undeniably vibrant future.</b>
+                  </p>
+                </div>
+              </div>
+
+                <div class="col-md-5 d-flex" style="padding-left: 5%;">
+                  <div class="blog-entry align-self-stretch">
+                    <p class="block-20" style="background-image: url('images/profile-2.jpg'); height: 170px; width: 140px;">
+                    </p>
+                    <div class="text mt-3 d-block">
+                      <div class="heading-section"><b><h3 style="font-family: transat-bold;"> Managing Director </h3></b></div>
+                      <p style="font-size: 13px; font-family: proxima-nova-light; color: black; line-height: 14pt;">
+                        <b>Shanthanu Sukumaran is a business analyser<br>
+                        with around 8 years of experience in textile<br>
+                        He has a Master's Degree in International <br>
+                        Business management.<br><br>
+                        Yes! you guessed right, we are brothers.</b>
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
           </div>
         </div>
       </div>
-    </div>
-  </section>
-
+    </section>
+              
 <!-- hiden on lg -->
 
 <div class="d-lg-none" >
@@ -92,36 +114,30 @@ color: #000000;opacity: 1; line-height: 14pt;"><b>
                      <div class="blog-entry align-self-stretch">
                   <a class="block-20" style="background-image: url('images/space/image-3.jpg');background-size: contain; background-position: initial; margin-left: 20px ; margin-right:20px ">
                   </a>
-                   <div class="heading-section"><b><h2 style="font-family: transat-bold; margin-top:-50px;margin-left: 20px ; margin-right:20px ; line-height:30pt ; letter-spacing: 0.5pt">Hospitality</h2></b><br></div>
-
-</div>
-</div>
-</div>
-</div>
-</section>
- <div class="d-none d-lg-block">
-<!-- hiden on small -->
-  <section class="bg-regular">
-    <div class=" d-flex align-items-center">
-      <div class="container">
-        <div class="row d-flex justify-content-center ">
-          <div class="col-md-26 text-center heading-section">
-
-            <h1 style="font-family: transat-bold; text-align: left;"><b>SPACE</b></h1>
-            <br>
-
-
-            <div class="row d-flex">
-
-              <div class="col-md-4 col-sm-12 d-flex">
-                <div class="blog-entry align-self-stretch">
-                  <a class="block-20" style="background-image: url('images/space/image-1.jpg');
-                   background-size: contain;              
-                    background-position: initial;">
-                  </a>
-                  <div class="text mt-3 d-block" style="text-align: left; top: -45px;">
-                    <div class="heading-section"><b><h2 style="font-family: transat-bold;">Meetings</h2></b></div>
-                    <p style="font-size: 12px; font-family: proxima-nova-regular; color: black;">
+                   <div class="heading-section"><b><h2 style="font-family: transat-bold; margin-top:-50px;margin-left: 20px ; margin-right:20px ; line-height:30pt ; letter-spacing: 0.5pt">Hospitality</h2></b><br>
+                   </div>
+                 </div>
+               </div>
+             </div>
+           </div>
+         </section>
+         <div class="d-none d-lg-block">
+          <!-- hiden on small -->
+          <section class="bg-light">
+            <div class=" d-flex align-items-center">
+              <div class="container">
+                <div class="row d-flex justify-content-center ">
+                  <div class="col-md-26 text-center heading-section">
+                    <h1 style="font-family: transat-bold; text-align: left;"><b>SPACE</b></h1>
+                    <br>
+                    <div class="row d-flex">
+                      <div class="col-md-4 col-sm-12 d-flex">
+                        <div class="blog-entry align-self-stretch">
+                          <a class="block-20" style="background-image: url('images/space/image-1.jpg');background-size: contain;background-position: initial;">
+                          </a>
+                          <div class="text mt-3 d-block" style="text-align: left; top: -45px;">
+                          <div class="heading-section"><b><h2 style="font-family: transat-bold;">Meetings</h2></b></div>
+                    <      <p style="font-size: 12px; font-family: proxima-nova-light; color: black;">
 
 
  <div class="d-none d-lg-block">
@@ -143,10 +159,10 @@ color: #000000;opacity: 1; line-height: 14pt;"><b>
                   </a>
                   <div class="text mt-3 d-block" style="text-align: left; top: -45px;">
                     <div class="heading-section"><b><h2 style="font-family: transat-bold;">Working</h2></b></div>
-                    <p style="font-size: 12px; font-family: proxima-nova-regular; color: black;">
+                    <p style="font-size: 12px; font-family: proxima-nova-light; color: black;">
                       <div class="d-none d-lg-block">
-<!-- hiden on small -->
- We pride ourself in offering a collection of designs that are
+                        <!-- hiden on small -->
+                        We pride ourself in offering a collection of designs that are
                       functional enough for the high demands within a modern
                       office or co-working space.<br><br><br>
                     </div>
@@ -162,10 +178,10 @@ color: #000000;opacity: 1; line-height: 14pt;"><b>
                   </a>
                   <div class="text mt-3 d-block" style="text-align: left; top: -45px;">
                     <div class="heading-section"><b><h2 style="font-family: transat-bold;">Hospitality</h2></b></div>
-                    <p style="font-size: 12px; font-family: proxima-nova-regular; color: black;">
+                    <p style="font-size: 12px; font-family: proxima-nova-light; color: black;">
                       <div class="d-none d-lg-block">
-<!-- hiden on small -->
- From the compact reception area to an upscale hotel lounge, our
+                        <!-- hiden on small -->
+                         From the compact reception area to an upscale hotel lounge, our
                       wide collection of lounge furniture combined with our
                       extensive made-to-order options enable us to provide the
                       ideal solution.<br><br><br>
@@ -175,10 +191,8 @@ color: #000000;opacity: 1; line-height: 14pt;"><b>
                     </div>
                   </div>
                 </div>
-
+              </div>
             </div>
-
-          </div>
         </div>
       </div>
     </div>
@@ -186,6 +200,8 @@ color: #000000;opacity: 1; line-height: 14pt;"><b>
 </div>
 </div>
 </div>
+
+
 
 <div class="d-lg-none">
          <div>
@@ -197,8 +213,9 @@ color: #000000;opacity: 1; line-height: 14pt;"><b>
             <div class="ftco-footer-widget">
               <h2 class="ftco-heading-2" style="font-family: proxima-nova-bold; color: white;" data-toggle="collapse" data-target="#demo1" style="color:white;"><br><br></u> Made in 
                   India <span class="btn_view" style="font-size: 23px">+</span> </h2> <hr style="height:1px;border-top:1px solid #AAAAAA" />  <div id="demo1"  style="color:white;" class="collapse">
-                <p style="font-size: medium; font-family: proxima-nova-regular; text-align: left; color: white;">The logos trademark and brand names, other than that of Olive Clothiers indicated are of their respective owners and Olive Clothiers is using the same for description</p><hr style="height:1px;border-top:1px solid #AAAAAA" />             </div>
-          </div>
+                <p style="font-size: medium; font-family: proxima-nova-regular; text-align: left; color: white;">The logos trademark and brand names, other than that of Olive Clothiers indicated are of their respective owners and Olive Clothiers is using the same for description</p><hr style="height:1px;border-top:1px solid #AAAAAA" />
+              </div>
+                 </div>
 </div>
 
           <div class="col-md-2">
